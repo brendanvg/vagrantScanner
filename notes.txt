@@ -1,0 +1,10 @@
+Did I set up the environment variables? :trunk-recorder says cd pybombs ./pybombs env source path/to/GR/setup_env.sh
+
+
+
+backport - 
+
+
+vagrant using cmake
+
+
