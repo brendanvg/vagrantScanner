@@ -21,4 +21,6 @@ vagrant up
 Compiled successfully with Vagrant (running Ubuntu 14.04 in a VirtualBox virtual machine) ....now we need to alter the config.json file in trunk-recorder (see the virtual machine)...
 
 
+#NOTES
+Make sure your vagrant is upgraded.... get vagrant 2.0.*
 
