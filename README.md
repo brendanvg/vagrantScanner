@@ -22,5 +22,4 @@ Compiled successfully with Vagrant (running Ubuntu 14.04 in a VirtualBox virtual
 
 
 #NOTES
-Make sure your vagrant is upgraded.... get vagrant 2.0.*
-
+Make sure your vagrant is upgraded....
